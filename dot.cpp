@@ -10,4 +10,6 @@ int main()
 	{
 		v3[i] = v1[i]*v2[i];
 	}
+	// this is parallel and fast code
+	return 0;
 }
