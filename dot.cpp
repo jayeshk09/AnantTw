@@ -10,4 +10,5 @@ int main()
 	{
 		v3[i] = v1[i]*v2[i];
 	}
+	cout<<"Succr=essfully done"<<endl;
 }
